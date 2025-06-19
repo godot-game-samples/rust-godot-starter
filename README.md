@@ -116,7 +116,7 @@ rustc 1.87.0 (17067e9ac 2025-05-09)
 
 Now we will work on the Godot side.
 
-### Godotでプロジェクト作成
+### Project Creation with Godot
 
 Start Godot and create a project named godot.
 
